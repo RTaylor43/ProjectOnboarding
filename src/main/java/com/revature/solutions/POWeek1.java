@@ -37,7 +37,7 @@ public class POWeek1 {
         R: I2
         A: A1
         N: G2
-        T: T1
+        T: E4
         or Q1C6A1B2I2A1G2E4
      */
 
